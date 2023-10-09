@@ -1,6 +1,6 @@
 How do I approach designing software?
 What new design skills has your work on the project helped you to craft?
-Working on the project helped me develop a number of new design skills, such as improving time management and organization skills, as well as developing creativity and the ability to solve complex problems. In addition, I improved my skills of working with light in 3D space.
+ Working on the project helped me develop a number of new design skills, such as improving time management and organization skills, as well as developing creativity and the ability to solve complex problems. In addition, I improved my skills of working with light in 3D space.
 What design process did you follow for your project work?
 I tried to create all my C++ classes and functions this way, so I could reuse them in the final project.
 How could tactics from your design approach be applied in future work?
